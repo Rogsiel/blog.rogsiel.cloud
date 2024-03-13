@@ -1,0 +1,8 @@
+baseURL = 'https://blog.rogsiel.cloud/'
+languageCode = 'en-us'
+title = 'Rogsiel'
+theme = 'risotto'
+
+[markup]
+  defaultMarkdownHandler = 'goldmark'
+
